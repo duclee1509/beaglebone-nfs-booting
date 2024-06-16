@@ -1,5 +1,5 @@
-# NFS_Booting_BeagleBoneBlack
-
+# NFS Boot BeagleBoneBlack
+Instruction to boot Beaglebone Black using NFS. This method allows a machine to boot from an operating system stored on a network server rather than from a local disk or other local storage devices.
 ## Requirement
 * Running Ubuntu 20.04 OS or Virtual Ubuntu 20.04 machine on Windows
 
