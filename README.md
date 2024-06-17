@@ -3,6 +3,9 @@ Instruction to boot Beaglebone Black using NFS. This method allows a machine to 
 ## Requirement
 * Running Ubuntu 20.04 OS or Virtual Ubuntu 20.04 machine on Windows
 
+## Note
+* With my setup, you should login as root (username: root, password: root) to use sudo command
+
 ## Setup network 
 * Verify ethernet port name, in my case it is enp0s8. 
   * If you are using Virtual Machine, and your computer has ethernet physical port, you need to set up a network bridge adapter to your ethernet adapter
